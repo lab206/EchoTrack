@@ -17,7 +17,7 @@
 <p align="center">Code will be released soon. </p>
 <br>
 
-<div align=center><img src="" /></div>
+<div align=center><img src="imgs/network.png" /></div>
 
 ### Update
 - 2024.02.29 Init repository.
