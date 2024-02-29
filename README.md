@@ -7,10 +7,10 @@
   Xuan&nbsp;He</a> <b>&middot;</b>
   Zhiyong&nbsp;Li</a> &middot;</b>
   Rainer&nbsp;Stiefelhagen</a> &middot;</b>
-  <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
+  <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a>
   
   <br> <br>
-  <a href="" target="_blank">Paper</a>
+  <a href="https://arxiv.org/pdf/2402.18302.pdf" target="_blank">Paper</a>
 </div>
 
 <br>
