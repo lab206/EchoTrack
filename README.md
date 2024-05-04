@@ -54,7 +54,7 @@ The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [asset
 
 ### Update
 
-- 2024.5.4 Release text-based AR-MOT benchmarks, including Refer-KITTI+ and Refer-BDD.
+- 2024.4.25 Release text-based AR-MOT benchmarks, including Refer-KITTI+ and Refer-BDD.
 
 - 2024.2.29 Init repository.
 
