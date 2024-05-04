@@ -1,5 +1,6 @@
 ### <p align="center"> EchoTrack: Auditory Referring Multi-Object <br /> Tracking for Autonomous Driving
 <br>
+
 <div align="center">
   Jiacheng&nbsp;Lin*</a> <b>&middot;</b>
   Jiajun&nbsp;Chen*</a> <b>&middot;</b>
@@ -8,19 +9,54 @@
   Zhiyong&nbsp;Li</a> &middot;</b>
   Rainer&nbsp;Stiefelhagen</a> &middot;</b>
   <a href="https://yangkailun.com/" target="_blank">Kailun&nbsp;Yang</a>
-  
   <br> <br>
   <a href="https://arxiv.org/pdf/2402.18302.pdf" target="_blank">Paper</a>
 </div>
 
-<br>
-<p align="center">Code will be released soon. </p>
-<br>
-
 <div align=center><img src="imgs/network.png" /></div>
 
+
+
+### Text-based AR-MOT benchmarks
+
+#### Refer-KITTI
+
+Please download Refer-KITTI from the official [RMOT](https://github.com/wudongming97/RMOT).
+
+#### Refer-KITTI+
+
+Based on Refer-KITTI, you can download json files [expression+](https://github.com/lab206/EchoTrack/files/15208490/refer-ktiit%2B.zip) to structure Refer-KITTI+ as below.
+
+~~~
+├── refer-kitti
+│   ├── KITTI
+│           ├── training
+│           ├── labels_with_ids
+│   └── expression+
+│   └── seqmap_kittt+
+~~~
+
+#### Refer-BDD
+
+We select 50 videos from [BDD100k](https://doc.bdd100k.com/download.html) tracking set as our training and validation videos. We put the entire dataset on [GoogleDrive](https://drive.google.com/drive/folders/12jXjL9wJ9keB-vD-kWKI8IzK6mrIfmAN?usp=sharing). The Refer-BDD are structured as below.
+
+~~~
+├── refer-bdd
+│   ├── BDD
+│           ├── training
+│           ├── labels_with_ids
+│   		├── expression
+│   ├── refer-bdd.train
+│   ├── seqmap_bdd
+~~~
+
+The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [assets](https://github.com/lab206/EchoTrack/assets).
+
 ### Update
-- 2024.02.29 Init repository.
+
+- 2024.5.4 Release text-based AR-MOT benchmarks, including Refer-KITTI+ and Refer-BDD.
+
+- 2024.2.29 Init repository.
 
 ### Abstract
 This paper introduces the task of Auditory Referring
