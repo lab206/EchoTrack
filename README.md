@@ -50,7 +50,7 @@ We select 50 videos from [BDD100k](https://doc.bdd100k.com/download.html) tracki
 │   ├── seqmap_bdd
 ~~~
 
-The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [assets](https://github.com/lab206/EchoTrack/assets).
+The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [assets](https://github.com/lab206/EchoTrack/tree/main/assets).
 
 ### Update
 
