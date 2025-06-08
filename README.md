@@ -56,7 +56,7 @@ The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [asset
 ### Audio-based AR-MOT benchmarks
 
 
-Please download Echo-KITTI from the asset files.
+Please download Echo-KITTI from the [storage link](https://drive.google.com/drive/folders/1xbhfmLxmAdRTrH1LEO5VcfakCFioSfql?usp=sharing).
 
 
 ### Update
