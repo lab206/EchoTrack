@@ -13,7 +13,7 @@
   <a href="https://arxiv.org/pdf/2402.18302.pdf" target="_blank">Paper</a>
 </div>
 
-<div align=center><img src="imgs/network.png" /></div>
+<div align=center><img src="assets/network.png" /></div>
 
 
 
@@ -40,6 +40,12 @@ Based on Refer-KITTI, you can download json files [expression+](https://github.c
 
 We select 50 videos from [BDD100k](https://doc.bdd100k.com/download.html) tracking set as our training and validation videos. We put the entire dataset on [GoogleDrive](https://drive.google.com/drive/folders/12jXjL9wJ9keB-vD-kWKI8IzK6mrIfmAN?usp=sharing). The Refer-BDD are structured as below.
 
+
+### Audio-based AR-MOT benchmarks
+
+
+Please download Echo-KITTI from the asset files.
+
 ~~~
 ├── refer-bdd
 │   ├── BDD
@@ -53,6 +59,8 @@ We select 50 videos from [BDD100k](https://doc.bdd100k.com/download.html) tracki
 The `seqmap+`, `refer-bdd.train` and `seqmap_bdd` files are stored in the [assets](https://github.com/lab206/EchoTrack/tree/main/assets).
 
 ### Update
+
+- 2025.6.8 Release AR-MOT benchmarks and model code.
 
 - 2024.4.25 Release text-based AR-MOT benchmarks, including Refer-KITTI+ and Refer-BDD.
 
